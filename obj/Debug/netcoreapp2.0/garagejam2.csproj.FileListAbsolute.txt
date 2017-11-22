@@ -1,0 +1,10 @@
+/home/cajuuh/WebDev/garagejam2/bin/Debug/netcoreapp2.0/garagejam2.deps.json
+/home/cajuuh/WebDev/garagejam2/bin/Debug/netcoreapp2.0/garagejam2.runtimeconfig.json
+/home/cajuuh/WebDev/garagejam2/bin/Debug/netcoreapp2.0/garagejam2.runtimeconfig.dev.json
+/home/cajuuh/WebDev/garagejam2/bin/Debug/netcoreapp2.0/garagejam2.dll
+/home/cajuuh/WebDev/garagejam2/bin/Debug/netcoreapp2.0/garagejam2.pdb
+/home/cajuuh/WebDev/garagejam2/obj/Debug/netcoreapp2.0/garagejam2.csproj.CoreCompileInputs.cache
+/home/cajuuh/WebDev/garagejam2/obj/Debug/netcoreapp2.0/garagejam2.AssemblyInfoInputs.cache
+/home/cajuuh/WebDev/garagejam2/obj/Debug/netcoreapp2.0/garagejam2.AssemblyInfo.cs
+/home/cajuuh/WebDev/garagejam2/obj/Debug/netcoreapp2.0/garagejam2.dll
+/home/cajuuh/WebDev/garagejam2/obj/Debug/netcoreapp2.0/garagejam2.pdb
